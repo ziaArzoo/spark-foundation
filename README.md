@@ -116,11 +116,5 @@ df = pd.read_csv(url)
 - Product recommendation system
 - Regional expansion analysis
 
-## License
-This project is part of The Spark Foundation internship program.
-
-## Contact
-For questions or collaboration opportunities, please reach out through The Spark Foundation channels.
-
 ---
 *This analysis demonstrates data exploration techniques and provides actionable business insights for retail operations optimization.*
