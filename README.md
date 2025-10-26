@@ -6,7 +6,7 @@ This project performs comprehensive exploratory data analysis (EDA) on the Sampl
 **Author:** MD ZIA ARZOO  
 **Organization:** The Spark Foundation (Data Science and Business Analytics Intern)  
 **Dataset:** [Sample Superstore Dataset](https://bit.ly/3i4rbWl)  
-**Tags:** #GRIPAUGUST21 #TSF #DATASCIENCE
+
 
 ## Dataset Information
 - **Total Records:** 9,994 transactions
